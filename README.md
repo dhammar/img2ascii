@@ -1,7 +1,7 @@
 img2ascii
 =========
 
-Generates an ASCII art textfile given a Bitmap file.
+Generates an ASCII art textfile representation of a given Bitmap image file.
 
 =========
 <b>References:</b>
