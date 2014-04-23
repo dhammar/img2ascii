@@ -8,7 +8,7 @@ class Chunk{
 
 	public:
 		Chunk();
-		Chunk(std::vector< std::vector< Pixel > > chk);
+		Chunk(std::vector< std::vector< Pixel > > chk, int posw, int posh);
 		~Chunk();
 		int getChunkWPos();
 		int getChunkHPos();
