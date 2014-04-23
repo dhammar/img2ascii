@@ -1,8 +1,4 @@
 #include "Pixel.cpp"
-#include <vector>
-#include <stdio.h>
-
-using namespace std;
 
 class ImageLoader
 {
