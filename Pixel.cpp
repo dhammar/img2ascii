@@ -26,25 +26,21 @@ Pixel::Pixel()
 
 Pixel::~Pixel(){}
 
-int Pixel::setR(unsigned int val)
+void Pixel::setR(unsigned int val)
 {
 	r = val;
-	return 0;
 }
-int Pixel::setG(unsigned int val)
+void Pixel::setG(unsigned int val)
 {
 	g = val;
-	return 0;
 }
-int Pixel::setB(unsigned int val)
+void Pixel::setB(unsigned int val)
 {
 	b = val;
-	return 0;
 }
-int Pixel::setX(unsigned int val)
+void Pixel::setX(unsigned int val)
 {
 	x = val;
-	return 0;
 }
 
 
