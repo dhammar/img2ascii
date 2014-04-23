@@ -1,4 +1,3 @@
-
 #include "Pixel.cpp"
 
 #ifndef CHUNK_HPP_
@@ -9,7 +8,7 @@ class Chunk{
 
 	public:
 		Chunk();
-		Chunk(std::vector< std::vector< Pixel > >);
+		Chunk(std::vector< std::vector< Pixel > > chk);
 		~Chunk();
 		int getChunkWPos();
 		int getChunkHPos();
