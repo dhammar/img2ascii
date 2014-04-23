@@ -1,8 +1,5 @@
-
 #include "Pixel.cpp"
 #include <vector>
-
-using namespace std;
 
 class ImageLoader
 {
@@ -10,6 +7,6 @@ class ImageLoader
 	public:
 		ImageLoader();
 		~ImageLoader();
-		vector< vector<Pixel> > loadImage(FILE* f);
+		std::vector< vector<Pixel> > loadImage(FILE* f);
 
 }
