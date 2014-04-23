@@ -19,6 +19,8 @@ class Chunk{
 		char charEq();
 
 	private:
+		int wpos;
+		int hpos;
 		int w;
 		int h;
 		char eq;
