@@ -11,3 +11,5 @@ http://en.wikipedia.org/wiki/BMP_file_format
 http://www.fileformat.info/format/bmp/egff.htm
 
 http://www.tinaja.com/glib/expbmp.pdf
+
+http://www.kalytta.com/bitmap.h
