@@ -1,6 +1,8 @@
 img2ascii
 =========
 
+Incomplete - this was started as a practice project for C++ early in college
+
 Generates an ASCII art textfile representation of a given Bitmap image file.
 
 =========
